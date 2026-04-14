@@ -1,0 +1,4 @@
+input_path: data/raw/retail.csv
+output_figures: reports/figures
+log_path: reports/pipeline.log
+random_seed: 42
