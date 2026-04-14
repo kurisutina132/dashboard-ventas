@@ -50,3 +50,7 @@ venv/
 # Others
 *.log
 *.tmp
+
+# Allow required artifacts for Streamlit Cloud demo
+!models/modelo_final.joblib
+!data/processed/inferencia_df_transformado.csv
