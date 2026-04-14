@@ -30,3 +30,4 @@ Ver `requirements/requirements.txt` para dependencias necesarias.
 4. Entrena y guarda modelos en `models/`.
 5. Guarda reportes y visualizaciones en `reports/`.
  (Agrego entrenamiento html y app de streamlit)
+### https://kurisutina132.github.io/dashboard-ventas/
