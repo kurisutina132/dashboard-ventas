@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # dashboard-ventas
 Análisis de ventas tiendas deportivas
-=======
+
 # Proyecto de Machine Learning: Forecasting Ventas
 
 ## Estructura de Carpetas
@@ -29,4 +29,4 @@ Ver `requirements/requirements.txt` para dependencias necesarias.
 3. Usa los notebooks para análisis y experimentación.
 4. Entrena y guarda modelos en `models/`.
 5. Guarda reportes y visualizaciones en `reports/`.
->>>>>>> 36a1413 (Agrego entrenamiento html y app de streamlit)
+ (Agrego entrenamiento html y app de streamlit)
