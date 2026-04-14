@@ -1,4 +1,4 @@
-
+### Reporte (GitHub Pages): https://kurisutina132.github.io/dashboard-ventas/
 # dashboard-ventas
 Análisis de ventas tiendas deportivas
 
