@@ -159,11 +159,11 @@ ajuste_descuento = st.sidebar.slider(
 )
 
 # Selector de escenario de competencia
-st.sidebar.markdown("### 🏪 Escenario de Competencia")
 escenario = st.sidebar.radio(
-    "",
+    "Escenario de competencia",
     ["Actual (0%)", "Competencia -5%", "Competencia +5%"],
-    index=0
+    index=0,
+    label_visibility="collapsed"
 )
 
 # Mapear escenario a valor numérico
