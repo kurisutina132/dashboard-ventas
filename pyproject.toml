@@ -1,0 +1,14 @@
+[project]
+name = "dashboard-ventas"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "streamlit==1.56.0",
+  "pandas",
+  "numpy",
+  "scikit-learn==1.5.1",
+  "joblib==1.4.2",
+  "seaborn",
+  "matplotlib",
+  "pyyaml",
+]
