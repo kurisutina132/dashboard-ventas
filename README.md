@@ -1,6 +1,40 @@
 ### Reporte (GitHub Pages): https://kurisutina132.github.io/dashboard-ventas/
 ### https://dashboard-ventas-1-ya9j.onrender.com
-
+dashboard-ventas/
+│
+├── data/
+│   └── processed/
+│
+├── models/
+│   └── modelo_final.joblib
+│
+├── notebooks/
+│   ├── entrenamiento.ipynb
+│   └── forescasting.ipynb
+│
+├── src/
+│   ├── data.py
+│   ├── eda.py
+│   ├── features.py
+│   ├── report.py
+│   └── utils.py
+│
+├── docs/
+│
+├── .github/
+│
+├── app.py
+├── main.py
+├── config.yaml
+├── requirements.txt
+├── requirements/
+├── Dockerfile
+├── packages.txt
+├── runtime.txt
+├── .python-version
+├── python-version
+├── .gitignore
+└── .dockerignore
 
 # dashboard-ventas
 Análisis de ventas tiendas deportivas
